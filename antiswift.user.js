@@ -5,7 +5,7 @@
 // @require			http://code.jquery.com/jquery-latest.min.js
 // @run-at			document-start
 //
-// @version    0.9.1
+// @version    1.0
 // 
 // ==/UserScript==
 
