@@ -2,10 +2,11 @@
 // @name 			cs157 Antiswift
 // @namespace		http://eliasmartinezcohen.com/
 // @include     	http://cs.brown.edu/courses/csci1570/*
+// @include			http://cs.brown.edu/courses/cs157/*
 // @require			http://code.jquery.com/jquery-latest.min.js
 // @run-at			document-start
 //
-// @version    1.0
+// @version    1.1
 // 
 // ==/UserScript==
 
